@@ -1,0 +1,93 @@
+# História do Python
+
+## Origem
+
+O Python foi criado por **Guido van Rossum** em **1989**, enquanto trabalhava no **CWI (Centro de Matemática e Ciência da Computação)**, em Amsterdã, Holanda.
+
+Antes disso, Guido participou do desenvolvimento da linguagem **ABC**, experiência que influenciou diretamente a criação do Python. Seu objetivo era desenvolver uma linguagem que fosse:
+
+- Simples;
+- Fácil de aprender;
+- Interpretada;
+- Produtiva para o desenvolvimento de software.
+
+O nome **Python** foi inspirado no programa britânico **Monty Python's Flying Circus**, e não na cobra. Com o tempo, entretanto, a cobra tornou-se o principal símbolo da linguagem.
+
+---
+
+# Evolução
+
+- **1990:** primeiras versões públicas do Python.
+- **1995:** criação do projeto **CP4E (Computer Programming for Everybody)**, financiado pela DARPA.
+- **2001:** fundação da **Python Software Foundation (PSF)**, responsável pela manutenção e evolução da linguagem.
+- **2005:** Guido passa a trabalhar no Google.
+- **2013:** Guido ingressa no Dropbox.
+
+---
+
+# Características do Python
+
+- Linguagem de propósito geral;
+- Fácil de aprender;
+- Sintaxe simples e intuitiva;
+- Interpretada;
+- Multiplataforma;
+- Open Source;
+- Orientada a Objetos;
+- Batteries Included (grande quantidade de bibliotecas);
+- Alta legibilidade.
+
+---
+
+# Zen of Python
+
+O **Zen of Python**, criado por **Tim Peters**, reúne princípios que orientam o desenvolvimento de programas em Python.
+
+Principais ideias:
+
+- Bonito é melhor que feio.
+- Explícito é melhor que implícito.
+- Simples é melhor que complexo.
+- Complexo é melhor que complicado.
+- Legibilidade conta.
+- Erros nunca devem passar silenciosamente.
+- Diante da ambiguidade, recuse a tentação de adivinhar.
+- Deve haver um — e preferencialmente apenas um — modo óbvio de fazer algo.
+- Agora é melhor do que nunca.
+- Se a implementação é difícil de explicar, é uma má ideia.
+- Se a implementação é fácil de explicar, pode ser uma boa ideia.
+- Namespaces são uma grande ideia.
+
+---
+
+# Principais áreas de aplicação
+
+- Inteligência Artificial
+- Ciência de Dados
+- Desenvolvimento Web
+- Automação
+- Computação Científica
+- Biotecnologia
+- Computação 3D
+- Internet das Coisas (IoT)
+
+---
+
+# Empresas que utilizam Python
+
+- Google
+- YouTube
+- NASA
+- Globo
+- Dropbox
+- Industrial Light & Magic
+- Air Canada
+- BitTorrent
+- Zope
+
+---
+
+# Projetos conhecidos
+
+- Raspberry Pi
+- Minecraft Pi 
