@@ -1,0 +1,64 @@
+# Tipos Primitivos e Saída de Dados
+
+## Tipos Primitivos
+
+Python possui quatro tipos primitivos muito utilizados.
+
+| Tipo    | Descrição                          |
+| ------- | ---------------------------------- |
+| `int`   | Números inteiros                   |
+| `float` | Números reais (ponto flutuante)    |
+| `bool`  | Valores lógicos (`True` e `False`) |
+| `str`   | Textos (strings)                   |
+
+---
+
+## Conversão de Tipos
+
+```python
+numero = int(input('Digite um número: '))
+altura = float(input('Digite sua altura: '))
+nome = str(input('Digite seu nome: '))
+```
+
+> A função `input()` retorna uma `str` por padrão.
+
+---
+
+## Exemplo
+
+```python
+num1 = int(input('Primeiro número: '))
+num2 = int(input('Segundo número: '))
+
+soma = num1 + num2
+
+print('A soma entre os números é: {}'.format(soma))
+```
+
+---
+
+## Saída de Dados
+
+Forma tradicional:
+
+```python
+print('A soma entre os números é:', soma)
+```
+
+Utilizando `format()`:
+
+```python
+print('A soma entre os números é: {}'.format(soma))
+```
+
+---
+
+## Aprendizados
+
+* Conhecimento dos tipos primitivos (`int`, `float`, `bool` e `str`).
+* Conversão de dados utilizando funções de tipo.
+* Uso da função `print()` para exibir informações.
+* Uso da função `input()` para receber dados do usuário.
+* Formatação de strings com o método `format()`.
+* Conversão de valores antes de realizar operações matemáticas.
