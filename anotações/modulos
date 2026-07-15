@@ -1,0 +1,83 @@
+# Módulos em Python
+
+## O que são módulos?
+
+Módulos são bibliotecas que disponibilizam funções prontas para uso, permitindo reutilizar código e facilitar o desenvolvimento.
+
+---
+
+## Importação
+
+Importar um módulo inteiro:
+
+```python
+import math
+```
+
+Importar funções específicas:
+
+```python
+from math import sqrt, ceil
+```
+
+> As importações devem ser realizadas, preferencialmente, no início do arquivo.
+
+---
+
+## Principais módulos
+
+### `math`
+
+Operações matemáticas.
+
+* `ceil()` → arredonda para cima.
+* `floor()` → arredonda para baixo.
+* `trunc()` → remove a parte decimal.
+* `pow()` → potência.
+* `sqrt()` → raiz quadrada.
+* `factorial()` → fatorial.
+
+---
+
+### `random`
+
+Geração de valores aleatórios.
+
+* `random()`
+* `randint()`
+* `choice()`
+* `shuffle()`
+
+---
+
+### `datetime`
+
+Manipulação de datas e horários.
+
+---
+
+### `time`
+
+Controle de tempo e pausas (`sleep()`).
+
+---
+
+### `statistics`
+
+Funções estatísticas como média, mediana e moda.
+
+---
+
+### `os`
+
+Interação com o sistema operacional.
+
+---
+
+## Aprendizados
+
+* Utilização de módulos da biblioteca padrão.
+* Diferença entre `import` e `from ... import`.
+* Organização das importações no início do programa.
+* Uso dos módulos `math`, `random`, `datetime`, `time`, `statistics` e `os`.
+    
