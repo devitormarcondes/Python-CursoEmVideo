@@ -1,0 +1,64 @@
+# Manipulação de Strings
+
+## Fatiamento
+
+| Sintaxe         | Função                                   |
+| --------------- | ---------------------------------------- |
+| `frase[9]`      | Caractere na posição 9.                  |
+| `frase[9:13]`   | Índices 9 até 12.                        |
+| `frase[9:21:2]` | Intervalo pulando de 2 em 2.             |
+| `frase[:5]`     | Do início até o índice 4.                |
+| `frase[15:]`    | Do índice 15 até o final.                |
+| `frase[9::3]`   | Do índice 9 ao final, pulando de 3 em 3. |
+
+---
+
+## Análise
+
+* `len(frase)` → tamanho da string.
+* `frase.count('o')` → conta ocorrências.
+* `frase.find('texto')` → encontra a posição de uma palavra.
+* `'Curso' in frase` → verifica se a palavra existe.
+
+---
+
+## Transformação
+
+* `replace()`
+* `upper()`
+* `lower()`
+* `capitalize()`
+* `title()`
+* `strip()`
+* `rstrip()`
+* `lstrip()`
+
+---
+
+## Divisão
+
+```python
+frase.split()
+```
+
+Divide a string em uma lista de palavras.
+
+---
+
+## Junção
+
+```python
+'-'.join(lista)
+```
+
+Une os elementos de uma lista em uma única string.
+
+---
+
+## Aprendizados
+
+* Fatiamento de strings.
+* Análise de textos.
+* Transformação de caracteres.
+* Divisão e junção de strings.
+* Utilização dos principais métodos da classe `str`.
